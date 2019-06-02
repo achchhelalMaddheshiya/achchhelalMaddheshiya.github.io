@@ -3357,8 +3357,7 @@ body.mobile-nav-active #mobile-nav-toggle {
                End Blog Details  Page style
 ################
 */
-.footer-area {
-  padding: 100px 0; }
+
   @media (max-width: 1024px) {
     .footer-area {
       padding: 60px 0; } }
@@ -3397,3 +3396,11 @@ body.mobile-nav-active #mobile-nav-toggle {
       color: #e45447; }
 
 /*# sourceMappingURL=main.css.map */
+.page-content {
+  padding: 30px 0;
+  background-color: #fff;
+}
+p {
+  margin-top: 41px;
+  margin-bottom: 1rem;
+}
